@@ -1,4 +1,4 @@
-# Unidad 1 - Ejercicio 5
+# Unidad 1 - Ejercicio 6
 
 ## **Enunciado**
 Explique cuál es diferencia entre localización de objetos y clasificación de imágenes. Muestre ejemplos de ello.
@@ -16,12 +16,14 @@ que asigna una etiqueta a la imagen en su conjunto, la localización de objetos 
 Esto se logra típicamente mediante la delimitación de un cuadro alrededor de cada objeto detectado, conocido como cuadro delimitador o bounding box.
 
 ### Ejemplo de Localización de Objetos
+![object_detection](https://github.com/LDemarre/Practica-Vision-por-Computadora/assets/88700518/35f974c6-62e9-4611-9574-d2af4bea778c)
 
 ### Clasificación de Imágenes
 La clasificación de imágenes implica asignar una etiqueta o categoría a la imagen en su totalidad, basada en su contenido visual global. A diferencia de la localización de objetos, 
 que se centra en objetos individuales dentro de la imagen, la clasificación de imágenes se enfoca en la identificación general del contenido de la imagen.
 
 ### Ejemplo de Clasificación de Imágenes
+![image_classification](https://github.com/LDemarre/Practica-Vision-por-Computadora/assets/88700518/036e16d4-a853-4203-ab6c-ea8499c0dc46)
 
 ## Conclusión
 La diferencia principal entre la localización de objetos y la clasificación de imágenes radica en sus objetivos y resultados esperados. Mientras que la localización de objetos 
