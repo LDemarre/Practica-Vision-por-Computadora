@@ -9,12 +9,16 @@ Esta carpeta contiene los videos que se utilizaran para la detección del objeto
 
 * 'jugada_futbol': Video a utilizar.
 * 'jugada_futbol_YOLOv8': resultado de utilizar el algoritmo *YOLOv8*.
+* 'jugada_futbol_DETR': resultado de utilizar el algoritmo *DETR-ResNet50*.
+* 'jugada_futbol_SSD': resultado de utilizar el algoritmo *MobileNetSSD*.
 
 ### 'Algoritmos/'
 Contiene los modelos preentrenados de cada algoritmo que se utiliza en el ejercicio para la detección de objetos sobre el video.
 
 **Algoritmos utilizados**
 * 'YOLOv8'
+* 'DETR-ResNet50'
+* 'MobileNetSSD'
 
 ### 'Ejercicio 8.ipynb'
 Colab donde se utilizan los distintos algoritmos para detectar los objetos en el video. 
